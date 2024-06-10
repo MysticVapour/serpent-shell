@@ -29,7 +29,7 @@ export default function Phone({
         }
         alt="phone image"
       />
-      <div className="absolute -z-10 inset-0">
+      <div className="absolute  -z-10  inset-0">
         <img
           className="object-cover"
           src={imgSrc}
